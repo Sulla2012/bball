@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "optimistic-tube-310800",
+  "private_key_id": "dda5a01f24f6a5c9aaadcd4a117fec0320f6b6c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDp3lxBAI6Fe3P\npYAD97hNeQzVQwAPIg1lL/ebERtBqBNTlXe5joqAxrsmCWfZ/b2HWFhZVTnieGJt\n5Wk3iFqC8Lvx1AhJrtEu4DxjL63MVt8Ey7qSwK/sX+vDUAUQKIFvGgg4S1+ZF4vD\nQBaQ/nHndOS6ZQwE/4+B8scC/t/Z0OKAhWtiaK0/eGyuNFrOC3hZYbWVMhJfamAO\n6BWCootNBKCG4D57/BZs9Y7VTppBpaukvv/dns7dSnNDBq0PbkyDb4QUNm7uUWeq\nx23u/ywSQDXD3MxQqDRRPNutqaJ559HozBwIkYM3GJB16WXPT6YXZhGlH7d5/pMp\nsNenz6RrAgMBAAECgf90KvvwHnE0C9EneRyJPowvc7Aq750ZXx6U9eYOLBoC4ciX\n2Cc+BWQ3EcgMzYjb5cyij9HlOLUlwlSu64eNcWhMVqNA8qP5G9MYAgvY2HZY3TuN\nnWkpuT67GjjhvqFC9snjLZGz2wzn2RMi2uqLLIh05PLpuRVp4lNS1NNU8//1UwX0\nH0s/JCOeQ86166olJscUQ/R0og1C2OxxBNseDvh2fB77/O20EZpymqvIi4EClME4\ngPC41kmn3n3lLCRQ9VQakbYbpf1twBYAOxddozxZkB5aStUYBWhypVIMXTGvFBt8\nZA5lazyzxHw92BRJhSti+z7UfAjUjWCD5yB4R0ECgYEA+F2pB/GU9GAYX/WfgAn1\nc0FFR5r42AJx0A/2aplEq/q7NAwSaoFZocfwNibkyltNwv3crHSqNCkGZOu2H2bB\n7UmBLg2whNqUKf8U/YfjkclIAZT1iVZYLcLAGhsjW5Kqg+d7894BOpHl8HOdgsPY\nkN7FJKYR0KKvtdwGm1WABOUCgYEAyasJcfozEop79t4Xl0lyyBL8X0oTUh7TMuC5\nlnirMqdqH+Zo7BPm/eFNkUquYX3HdnWbUVh9AkuUplEks5KcIM5QVOKMfHk6sJ2w\nmYDT2k5cd7GUbG7FEz2N/QjzV6omE8qUS+S19DsVrXei7O3S8gJ6zv+CVycpdnPu\nNPT/Pw8CgYAtO+GtMLKQT3AhCfsitq2dcCXOBMuNi+RuoHmgsIlxSRkPQaOZAjXw\n4Rk+w5anxDlFajbmsdjN5yri9osU7QIk1V5RpOyhRa32eB66jiVESAR1RUvy12b3\n7qBOIOMvqmaj32UT5TsUD75xLJ1jU4f92pTNN/HGrdqSpKAPamMGgQKBgQClTu9i\nH36n7x6ogOsDlzBgcrevAJCP2zayWOWoQ2fKENN8LKnLApFxgLLNq1MAFVNgdg0I\nBCoMrJnAL3mPPVl/xr6wpjgUfGcwiUJOwfxm0Z8Yelc4/x/KosV2KlUWgiHOTVt8\nTpEcDya41/2Ui2pD+OZkMavM9wwUzfjwLffg3wKBgQCLPOjvVvE8jdTDSX+ynth+\n0HqgtYxPNmMgiQn1PblNs74Kjauoil/99BJOVLH9egBSlW+Vh1NuJm0FXioKpnIp\nz/xvM7kgDXcBegA9E/RzAfpAJPbNZEq9dPIci0rgrQKR/c9mo3TPa4e7wFceWMa6\nCJ0SPXVbPF4TBV3kbyLx4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ncaa-bball-cnn@optimistic-tube-310800.iam.gserviceaccount.com",
+  "client_id": "103203382550368245306",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ncaa-bball-cnn%40optimistic-tube-310800.iam.gserviceaccount.com"
+}
